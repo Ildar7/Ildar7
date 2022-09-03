@@ -6,9 +6,6 @@
   <a href="mailto:ildarvaliev167@gmail.com">
     <img src="https://img.shields.io/badge/gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail-badge" />
   </a>
-  <a href="wa.link/6jvep3" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge" alt="Whatsapp-badge" />
-  </a>
   <div>
     <img src="https://komarev.com/ghpvc/?username=Ildar7&style=flat-square&color=blue" alt="history"/>
   </div>
