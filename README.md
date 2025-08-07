@@ -22,7 +22,7 @@
 ### 👨‍💻: About me:
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- 🔭 I’m studying at Kazan National Research Technical University KAI (KNRTU-KAI) as a software engineer.
+- 🔭 I have a bachelor's degree from Kazan National Research Technical University KAI (KNRTU-KAI) as a software engineer.
 - 🖥️ I work in a team where we develop web applications.
 - 🆓 In my free time, I go to play football, and also study more and more new web technologies.
 - <span align-items="center">📫 How to reach me: &nbsp; 
