@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grandstander&size=32&pause=1000&width=600&lines=Frontend+developer+from+KNRTU-KAI+%E2%9C%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Grandstander&size=32&pause=1000&width=600&lines=Frontend+developer)](https://git.io/typing-svg)
 <div id="badges" align="center">
   <a href="https://t.me/IldarValiev7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram-badge" />
